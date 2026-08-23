@@ -1,0 +1,17 @@
+{
+  "movies": [
+    {
+      "title": "Tron: Ares",
+      "subtitle": "Disney+",
+      "playURL": "https://www.disneyplus.com/play/ef8fe7d7-2ba1-4c95-acf3-27ab28df66e8",
+      "posterURL": "https://i.etsystatic.com/36541132/r/il/755152/6816359340/il_1080xN.6816359340_8su6.jpg"
+    },
+    {
+      "title": "Avengers",
+      "subtitle": "Disney+",
+      "playURL": "https://www.disneyplus.com/en-gb/play/d2ab699b-67da-4906-a7a4-5bc542c953cf",
+      "posterURL": "https://filmpostergallery.co.nz/wp-content/uploads/2022/10/The-Avengers-One-Sheet-Movie-Poster-1.jpg"
+    }
+  ],
+  "blockedPathContains": ["/browse", "/home", "/search"]
+}
